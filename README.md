@@ -1,4 +1,4 @@
-# Time Clock Application For Employees using PHP MySQL
+# A Time Clock Application For Employees using PHP MySQL
 Workday - A time clock application for employees
 Features of Complete Time Clock Application For Employees
 Employee Management (HRIS)
